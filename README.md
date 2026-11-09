@@ -1,3 +1,3 @@
 # COREON
 
-Dit is gewoon een schoolwerk voor HOGENT. COREON bestaat niet echt. Ik moet de site nog even hosten.
+Dit is gewoon een schoolwerk voor HOGENT. COREON bestaat niet echt. Deze repo staat hier alleen om de site te hosten.
